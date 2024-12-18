@@ -13,13 +13,23 @@ These
 ---
 
 ## Table of Contents
-Homework 1-Differential Calculus, Optimization and Gradient Descent 
+Homework 1-Differential Calculus, Optimization and Gradient Descent.
 
-Homework 2-Imputing three different missing data types-Missing Completetly at Random (MCAR), Missing at Random (MAR), Missing Not at Random (MNAR)
+Homework 2-Imputing three different missing data types-Missing Completetly at Random (MCAR), Missing at Random (MAR), Missing Not at Random (MNAR).
 
-Homework 3-Hadoop Mapreduce Tools Exercise
+Homework 3-Hadoop Mapreduce Tools Exercise.
 
-Homework 4-Primary Component Analysis of a randomized dataset
+Homework 4-Primary Component Analysis of a randomized dataset.
+
+Homework 5-Computing the Numerical Hessian and Jacobian using SymPy.
+
+Homework 6-Using Pagerank to determine the most widely used airports in a given network.
+
+Homework 7-Create and plot Sigmoid Functions.
+
+Homework 8-Create a Decision Tree Algorithm using the Iris Dataset.
+
+Homework 9-Train and Evaluate an SVM model, then visualize Decision Boundaries on the Iris Dataset.
 
 
 ---
