@@ -7,7 +7,7 @@ This is a space to store my homework for CS 660-Mathematical Foundations of Anal
 This class looks to build mathematical competencies using Python, NumPY, Pandas, scikit-learn and MATLAB.
 
 ## Homeworks
-Each homework requires me to work through a different mathematical process, using the Python tools at my disposal. 
+Each homework requires me to work through the coding libraries associated with a different mathematical process in the Data Science curriculum, as a supplement to the pencil and paper work done in class. These assignment required me to both practice with libraries and create hard-coded functions.
 These 
 
 ---
